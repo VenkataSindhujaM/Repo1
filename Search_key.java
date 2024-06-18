@@ -19,6 +19,10 @@ public class Search_key{
         if(flag==0)
         System.out.println("Key Not Found");
         else
+<<<<<<< HEAD
         System.out.println("Found at  a index : "+ind);
+=======
+        System.out.println("Found at the index : "+ind);
+>>>>>>> Feature1
     }
 }
