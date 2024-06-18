@@ -19,6 +19,6 @@ public class Search_key{
         if(flag==0)
         System.out.println("Key Not Found");
         else
-        System.out.println("Found at index : "+ind);
+        System.out.println("Found at  a index : "+ind);
     }
 }
