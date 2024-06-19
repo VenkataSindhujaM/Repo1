@@ -20,6 +20,5 @@ public class Search_key{
         System.out.println("Key Not Found at any index");
         else
         System.out.println("Found at  a index : "+ind);
-        System.out.println("Found at the index : "+ind);
     }
 }
